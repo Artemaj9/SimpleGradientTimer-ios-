@@ -11,6 +11,7 @@
 		ACA2A4122A2D470F00A7DDBD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA2A4112A2D470F00A7DDBD /* ContentView.swift */; };
 		ACA2A4142A2D471000A7DDBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACA2A4132A2D471000A7DDBD /* Assets.xcassets */; };
 		ACA2A4172A2D471000A7DDBD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACA2A4162A2D471000A7DDBD /* Preview Assets.xcassets */; };
+		ACA2A41E2A2D475200A7DDBD /* Content-ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA2A41D2A2D475200A7DDBD /* Content-ViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		ACA2A4112A2D470F00A7DDBD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		ACA2A4132A2D471000A7DDBD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ACA2A4162A2D471000A7DDBD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		ACA2A41D2A2D475200A7DDBD /* Content-ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Content-ViewModel.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				ACA2A40F2A2D470F00A7DDBD /* SimpleGradientTimer_ios_App.swift */,
 				ACA2A4112A2D470F00A7DDBD /* ContentView.swift */,
+				ACA2A41D2A2D475200A7DDBD /* Content-ViewModel.swift */,
 				ACA2A4132A2D471000A7DDBD /* Assets.xcassets */,
 				ACA2A4152A2D471000A7DDBD /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				ACA2A4122A2D470F00A7DDBD /* ContentView.swift in Sources */,
 				ACA2A4102A2D470F00A7DDBD /* SimpleGradientTimer_ios_App.swift in Sources */,
+				ACA2A41E2A2D475200A7DDBD /* Content-ViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
